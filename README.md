@@ -1,24 +1,6 @@
-# vue-calendar
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- edit on click and autosave
+- on click date, add event on that specific date
+- login g-account
+- add time slots as well
+- Make component
+- add icons
