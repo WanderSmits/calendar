@@ -1,6 +1,1 @@
-- edit on click and autosave
-- on click date, add event on that specific date
-- login g-account
-- add time slots as well
-- Make component
-- add icons
+[Live demo] (https://nanny-761de.web.app/)
